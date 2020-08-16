@@ -1,0 +1,275 @@
+OrderNum;OrderDate;CustName;State;ProdCategory;ProdName;Quantity;Price;OrderTotal
+1;01/01/2017;Graham Frederick;Massachusetts;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+2;01/01/2017;Jael Rice;California;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+3;05/01/2017;Nolan Slater;Nevada;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+4;15/01/2017;Blaine Ashley;North Carolina;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+5;17/01/2017;Medge Ratliff;Ohio;Bottle;Mandarin (bottle);1; $13,95 ; $13,95 
+6;18/01/2017;Cally Reynolds;North Dakota;Case;Mandarin (case);1; $82,95 ; $82,95 
+7;19/01/2017;Brock Case;Virginia;Bottle;Thyme (bottle);4; $13,95 ; $55,80 
+8;20/01/2017;Theodore Brock;New York;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+9;21/01/2017;Karly Hardin;Ohio;Bottle;Mandarin (bottle);1; $13,95 ; $13,95 
+10;21/01/2017;Eagan Bray;Pennsylvania;Bottle;Rosemary (bottle);4; $13,95 ; $55,80 
+11;22/01/2017;Oleg Merritt;California;Case;Assortment (case);2; $82,95 ; $165,90 
+12;24/01/2017;Roth Black;New York;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+13;04/02/2017;Jaime Craig;Ohio;Case;Lemon (case);2; $82,95 ; $165,90 
+14;06/02/2017;Jenna Hendricks;Oklahoma;Bottle;Rosemary (bottle);2; $13,95 ; $27,90 
+15;06/02/2017;Josiah Wagner;Alabama;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+16;08/02/2017;Nasim Sheppard;New York;Bottle;Rosemary (bottle);4; $13,95 ; $55,80 
+17;14/02/2017;Leslie Pace;Texas;Bottle;Thyme (bottle);4; $13,95 ; $55,80 
+18;16/02/2017;Shay Davidson;Texas;Bottle;Thyme (bottle);2; $13,95 ; $27,90 
+19;18/02/2017;Jerry Gill;Alabama;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+20;23/02/2017;Kenneth Potts;Montana;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+21;24/02/2017;Quail Vance;Iowa;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+22;25/02/2017;Melyssa Gates;California;Bottle;Basil (bottle);1; $13,95 ; $13,95 
+23;27/02/2017;Shafira Bennett;Ohio;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+24;06/03/2017;Quentin Marshall;District of Columbia;Case;Assortment (case);2; $82,95 ; $165,90 
+25;07/03/2017;Rose Holcomb;Georgia;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+26;11/03/2017;Zephr Mcgee;Pennsylvania;Bottle;Thyme (bottle);2; $13,95 ; $27,90 
+27;15/03/2017;Sade Santiago;Alaska;Case;Assortment (case);1; $82,95 ; $82,95 
+28;16/03/2017;Sydney Bartlett;Tennessee;Case;Lemon (case);2; $82,95 ; $165,90 
+29;16/03/2017;Anastasia Owens;Kansas;Case;Assortment (case);2; $82,95 ; $165,90 
+30;16/03/2017;Brooke Perkins;Texas;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+31;21/03/2017;Hadley Sosa;Florida;Case;Thyme (case);3; $82,95 ; $248,85 
+32;28/03/2017;Shellie Velez;Ohio;Bottle;Hazelnut (bottle);3; $13,95 ; $41,85 
+33;29/03/2017;Laith Jordan;Maryland;Bottle;Hazelnut (bottle);3; $13,95 ; $41,85 
+34;29/03/2017;Gray Gutierrez;District of Columbia;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+35;01/04/2017;Amery Washington;Illinois;Bottle;Thyme (bottle);4; $13,95 ; $55,80 
+36;01/04/2017;Nicole Mcconnell;California;Bottle;Mandarin (bottle);3; $13,95 ; $41,85 
+37;02/04/2017;Brooke Perkins;Texas;Case;Assortment (case);1; $82,95 ; $82,95 
+38;05/04/2017;Kaden Sharpe;Virginia;Case;Mandarin (case);1; $82,95 ; $82,95 
+39;08/04/2017;Jael Rice;California;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+40;09/04/2017;Merrill Freeman;Connecticut;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+41;13/04/2017;Adena Jenkins;Illinois;Bottle;Mandarin (bottle);1; $13,95 ; $13,95 
+42;16/04/2017;Mollie Meyers;Texas;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+43;17/04/2017;Hedy Vang;California;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+44;18/04/2017;Chastity Charles;Alabama;Bottle;Hazelnut (bottle);4; $13,95 ; $55,80 
+45;19/04/2017;Kamal Newton;Wisconsin;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+46;23/04/2017;Dorian Dale;Michigan;Bottle;Basil (bottle);3; $13,95 ; $41,85 
+47;30/04/2017;Jenna Hendricks;Oklahoma;Case;Thyme (case);1; $82,95 ; $82,95 
+48;01/05/2017;Benjamin Miranda;Florida;Case;Lemon (case);3; $82,95 ; $248,85 
+49;06/05/2017;Philip Ware;District of Columbia;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+50;14/05/2017;Malik Faulkner;Florida;Case;Assortment (case);3; $82,95 ; $248,85 
+51;15/05/2017;Serena Malone;California;Bottle;Rosemary (bottle);2; $13,95 ; $27,90 
+52;16/05/2017;Mollie Meyers;Texas;Bottle;Hazelnut (bottle);3; $13,95 ; $41,85 
+53;16/05/2017;Cally Reynolds;North Dakota;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+54;17/05/2017;Ayanna Foreman;California;Case;Lemon (case);3; $82,95 ; $248,85 
+55;19/05/2017;Francesca Hodges;Iowa;Bottle;Basil (bottle);4; $13,95 ; $55,80 
+56;24/05/2017;Shay Davidson;Texas;Bottle;Rosemary (bottle);3; $13,95 ; $41,85 
+57;25/05/2017;Sydney Bartlett;Tennessee;Case;Rosemary (case);1; $82,95 ; $82,95 
+58;30/05/2017;Sasha King;Colorado;Bottle;Mandarin (bottle);3; $13,95 ; $41,85 
+59;06/06/2017;Calvin Henry;Florida;Case;Rosemary (case);1; $82,95 ; $82,95 
+60;07/06/2017;Mona Matthews;California;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+61;08/06/2017;Nash Vasquez;Minnesota;Case;Lemon (case);1; $82,95 ; $82,95 
+62;10/06/2017;Judith Leonard;New Jersey;Case;Rosemary (case);1; $82,95 ; $82,95 
+63;10/06/2017;Barrett Howell;California;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+64;17/06/2017;Brody Love;California;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+65;19/06/2017;Cailin Alford;North Carolina;Bottle;Mandarin (bottle);2; $13,95 ; $27,90 
+66;25/06/2017;Sydney Bartlett;Tennessee;Bottle;Rosemary (bottle);2; $13,95 ; $27,90 
+67;28/06/2017;Hedy Vang;California;Bottle;Mandarin (bottle);2; $13,95 ; $27,90 
+68;01/07/2017;Leslie Pace;Texas;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+69;02/07/2017;Adara Langley;California;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+70;09/07/2017;Coby Lucas;Tennessee;Bottle;Thyme (bottle);4; $13,95 ; $55,80 
+71;11/07/2017;Nash Vasquez;Minnesota;Case;Rosemary (case);3; $82,95 ; $248,85 
+72;13/07/2017;Iliana Hester;Illinois;Bottle;Rosemary (bottle);1; $13,95 ; $13,95 
+73;17/07/2017;Arden Bennett;Louisiana;Bottle;Rosemary (bottle);4; $13,95 ; $55,80 
+74;18/07/2017;Nasim Sheppard;New York;Case;Hazelnut (case);1; $82,95 ; $82,95 
+75;24/07/2017;Wynter Roberts;California;Bottle;Mandarin (bottle);1; $13,95 ; $13,95 
+76;24/07/2017;Zephr Mcgee;Pennsylvania;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+77;25/07/2017;Graham Frederick;Massachusetts;Case;Lemon (case);3; $82,95 ; $248,85 
+78;26/07/2017;Astra Edwards;New York;Case;Assortment (case);3; $82,95 ; $248,85 
+79;27/07/2017;Calvin Henry;Florida;Bottle;Hazelnut (bottle);1; $13,95 ; $13,95 
+80;29/07/2017;Chastity Charles;Alabama;Bottle;Hazelnut (bottle);4; $13,95 ; $55,80 
+81;03/08/2017;Derek Conrad;Colorado;Bottle;Basil (bottle);1; $13,95 ; $13,95 
+82;03/08/2017;Eric Donaldson;Florida;Bottle;Mandarin (bottle);2; $13,95 ; $27,90 
+83;08/08/2017;Kyle Keith;Georgia;Bottle;Rosemary (bottle);4; $13,95 ; $55,80 
+84;12/08/2017;Germaine Green;Texas;Case;Assortment (case);1; $82,95 ; $82,95 
+85;23/08/2017;Lunea Rios;Maryland;Bottle;Thyme (bottle);2; $13,95 ; $27,90 
+86;25/08/2017;Zephr Mcgee;Pennsylvania;Case;Assortment (case);3; $82,95 ; $248,85 
+87;25/08/2017;Debra Finley;Ohio;Bottle;Hazelnut (bottle);1; $13,95 ; $13,95 
+88;26/08/2017;Michael Rutledge;Ohio;Case;Rosemary (case);1; $82,95 ; $82,95 
+89;30/08/2017;Quentin Marshall;District of Columbia;Bottle;Mandarin (bottle);2; $13,95 ; $27,90 
+90;30/08/2017;Kyla Hebert;North Carolina;Case;Rosemary (case);2; $82,95 ; $165,90 
+91;31/08/2017;Debra Finley;Ohio;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+92;02/09/2017;Molly Grant;Virginia;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+93;06/09/2017;Roanna Acevedo;Florida;Bottle;Hazelnut (bottle);4; $13,95 ; $55,80 
+94;07/09/2017;Clementine Oliver;Kansas;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+95;08/09/2017;Eagan Bray;Pennsylvania;Bottle;Basil (bottle);2; $13,95 ; $27,90 
+96;13/09/2017;Rae Hawkins;Massachusetts;Bottle;Mandarin (bottle);2; $13,95 ; $27,90 
+97;16/09/2017;Melinda Price;Texas;Bottle;Rosemary (bottle);4; $13,95 ; $55,80 
+98;17/09/2017;Ronan Mendez;Wisconsin;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+99;28/09/2017;Shellie Velez;Ohio;Case;Lemon (case);3; $82,95 ; $248,85 
+100;28/09/2017;Theodore Brock;New York;Bottle;Mandarin (bottle);2; $13,95 ; $27,90 
+101;29/09/2017;Lucas Trevino;Minnesota;Bottle;Hazelnut (bottle);2; $13,95 ; $27,90 
+102;01/10/2017;Rhonda Wilder;Kentucky;Case;Assortment (case);1; $82,95 ; $82,95 
+103;03/10/2017;Ayanna Foreman;California;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+104;04/10/2017;Jael Rice;California;Bottle;Rosemary (bottle);4; $13,95 ; $55,80 
+105;05/10/2017;Brock Case;Virginia;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+106;08/10/2017;Chester Best;Minnesota;Bottle;Basil (bottle);1; $13,95 ; $13,95 
+107;10/10/2017;Guy Ochoa;Michigan;Case;Thyme (case);1; $82,95 ; $82,95 
+108;12/10/2017;Dustin Daugherty;Iowa;Case;Assortment (case);1; $82,95 ; $82,95 
+109;12/10/2017;Indira Odom;Minnesota;Bottle;Rosemary (bottle);3; $13,95 ; $41,85 
+110;13/10/2017;Rhona Stanley;California;Case;Lemon (case);3; $82,95 ; $248,85 
+111;17/10/2017;Amena Petersen;New York;Bottle;Hazelnut (bottle);4; $13,95 ; $55,80 
+112;18/10/2017;Kenneth Potts;Montana;Bottle;Basil (bottle);1; $13,95 ; $13,95 
+113;18/10/2017;Yoko Travis;North Carolina;Bottle;Rosemary (bottle);3; $13,95 ; $41,85 
+114;18/10/2017;Hunter Newton;Texas;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+115;18/10/2017;Rose Holcomb;Georgia;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+116;19/10/2017;Melinda Price;Texas;Bottle;Basil (bottle);1; $13,95 ; $13,95 
+117;19/10/2017;Mollie Meyers;Texas;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+118;21/10/2017;Chastity Charles;Alabama;Case;Lemon (case);3; $82,95 ; $248,85 
+119;21/10/2017;Savannah Conner;North Carolina;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+120;24/10/2017;Tyrone Powell;Indiana;Bottle;Rosemary (bottle);4; $13,95 ; $55,80 
+121;28/10/2017;Chastity Charles;Alabama;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+122;02/11/2017;Joshua Delaney;Oklahoma;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+123;09/11/2017;Raja Wells;District of Columbia;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+124;11/11/2017;Coby Lucas;Tennessee;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+125;12/11/2017;Rae Hawkins;Massachusetts;Case;Mandarin (case);2; $82,95 ; $165,90 
+126;13/11/2017;Nolan Slater;Nevada;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+127;17/11/2017;Zena Washington;California;Bottle;Mandarin (bottle);1; $13,95 ; $13,95 
+128;19/11/2017;Calvin Henry;Florida;Bottle;Hazelnut (bottle);3; $13,95 ; $41,85 
+129;26/11/2017;Rebekah Nelson;New York;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+130;29/11/2017;Clementine Oliver;Kansas;Case;Rosemary (case);2; $82,95 ; $165,90 
+131;04/12/2017;Molly Grant;Virginia;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+132;11/12/2017;Brock Case;Virginia;Case;Assortment (case);1; $82,95 ; $82,95 
+133;11/12/2017;Joshua Delaney;Oklahoma;Case;Thyme (case);1; $82,95 ; $82,95 
+134;11/12/2017;Calvin Henry;Florida;Bottle;Rosemary (bottle);4; $13,95 ; $55,80 
+135;16/12/2017;Benjamin Miranda;Florida;Bottle;Thyme (bottle);1; $13,95 ; $13,95 
+136;19/12/2017;Wesley Rush;Texas;Bottle;Mandarin (bottle);1; $13,95 ; $13,95 
+137;25/12/2017;Erasmus Neal;California;Bottle;Rosemary (bottle);1; $13,95 ; $13,95 
+138;02/01/2018;Lucas Trevino;Minnesota;Bottle;Thyme (bottle);1; $13,95 ; $13,95 
+139;05/01/2018;Zena Washington;California;Case;Lemon (case);1; $82,95 ; $82,95 
+140;11/01/2018;Brody Love;California;Bottle;Mandarin (bottle);1; $13,95 ; $13,95 
+141;12/01/2018;Eric Donaldson;Florida;Bottle;Hazelnut (bottle);1; $13,95 ; $13,95 
+142;15/01/2018;Molly Grant;Virginia;Bottle;Mandarin (bottle);1; $13,95 ; $13,95 
+143;16/01/2018;Merrill Freeman;Connecticut;Bottle;Rosemary (bottle);2; $13,95 ; $27,90 
+144;19/01/2018;Quail Vance;Iowa;Bottle;Rosemary (bottle);3; $13,95 ; $41,85 
+145;26/01/2018;Dorian Dale;Michigan;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+146;26/01/2018;Serena Malone;California;Bottle;Hazelnut (bottle);2; $13,95 ; $27,90 
+147;26/01/2018;Tyrone Powell;Indiana;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+148;08/02/2018;Arden Bennett;Louisiana;Bottle;Mandarin (bottle);2; $13,95 ; $27,90 
+149;09/02/2018;Lunea Rios;Maryland;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+150;10/02/2018;Raja Wells;District of Columbia;Case;Assortment (case);1; $82,95 ; $82,95 
+151;12/02/2018;Joshua Delaney;Oklahoma;Bottle;Basil (bottle);4; $13,95 ; $55,80 
+152;14/02/2018;Wesley Rush;Texas;Case;Mandarin (case);1; $82,95 ; $82,95 
+153;22/02/2018;Coby Lucas;Tennessee;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+154;22/02/2018;Shay Davidson;Texas;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+155;22/02/2018;Zena Washington;California;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+156;23/02/2018;Ronan Mendez;Wisconsin;Bottle;Thyme (bottle);3; $13,95 ; $41,85 
+157;23/02/2018;Joshua Delaney;Oklahoma;Case;Assortment (case);1; $82,95 ; $82,95 
+158;24/02/2018;Molly Grant;Virginia;Case;Lemon (case);3; $82,95 ; $248,85 
+159;11/03/2018;Eagan Bray;Pennsylvania;Bottle;Rosemary (bottle);2; $13,95 ; $27,90 
+160;11/03/2018;Molly Grant;Virginia;Case;Mandarin (case);3; $82,95 ; $248,85 
+161;12/03/2018;Amery Washington;Illinois;Bottle;Mandarin (bottle);3; $13,95 ; $41,85 
+162;14/03/2018;Guy Ochoa;Michigan;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+163;17/03/2018;Derek Conrad;Colorado;Case;Rosemary (case);2; $82,95 ; $165,90 
+164;17/03/2018;Jerry Gill;Alabama;Bottle;Mandarin (bottle);3; $13,95 ; $41,85 
+165;18/03/2018;Coby Lucas;Tennessee;Bottle;Mandarin (bottle);3; $13,95 ; $41,85 
+166;22/03/2018;Theodore Brock;New York;Bottle;Mandarin (bottle);2; $13,95 ; $27,90 
+167;23/03/2018;Yoko Travis;North Carolina;Case;Mandarin (case);2; $82,95 ; $165,90 
+168;23/03/2018;Wesley Rush;Texas;Case;Mandarin (case);2; $82,95 ; $165,90 
+169;27/03/2018;Rhonda Wilder;Kentucky;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+170;03/04/2018;Cally Reynolds;North Dakota;Case;Thyme (case);3; $82,95 ; $248,85 
+171;04/04/2018;Clementine Oliver;Kansas;Bottle;Rosemary (bottle);1; $13,95 ; $13,95 
+172;06/04/2018;Ronan Mendez;Wisconsin;Bottle;Basil (bottle);4; $13,95 ; $55,80 
+173;09/04/2018;Astra Edwards;New York;Case;Lemon (case);3; $82,95 ; $248,85 
+174;10/04/2018;Rhonda Wilder;Kentucky;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+175;14/04/2018;Arden Bennett;Louisiana;Case;Assortment (case);1; $82,95 ; $82,95 
+176;24/04/2018;Debra Finley;Ohio;Case;Lemon (case);2; $82,95 ; $165,90 
+177;28/04/2018;Eric Donaldson;Florida;Bottle;Rosemary (bottle);4; $13,95 ; $55,80 
+178;29/04/2018;Zephr Mcgee;Pennsylvania;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+179;02/05/2018;Brock Case;Virginia;Bottle;Mandarin (bottle);2; $13,95 ; $27,90 
+180;02/05/2018;Merrill Freeman;Connecticut;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+181;03/05/2018;Ronan Mendez;Wisconsin;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+182;04/05/2018;Benjamin Miranda;Florida;Bottle;Rosemary (bottle);3; $13,95 ; $41,85 
+183;05/05/2018;Ayanna Foreman;California;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+184;10/05/2018;Cally Reynolds;North Dakota;Case;Lemon (case);1; $82,95 ; $82,95 
+185;11/05/2018;Serena Malone;California;Bottle;Hazelnut (bottle);4; $13,95 ; $55,80 
+186;11/05/2018;Calvin Henry;Florida;Bottle;Thyme (bottle);2; $13,95 ; $27,90 
+187;12/05/2018;Hedy Vang;California;Bottle;Hazelnut (bottle);2; $13,95 ; $27,90 
+188;14/05/2018;Sade Santiago;Alaska;Bottle;Thyme (bottle);4; $13,95 ; $55,80 
+189;14/05/2018;Kenneth Potts;Montana;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+190;14/05/2018;Francesca Hodges;Iowa;Bottle;Hazelnut (bottle);2; $13,95 ; $27,90 
+191;19/05/2018;Nolan Slater;Nevada;Bottle;Rosemary (bottle);3; $13,95 ; $41,85 
+192;19/05/2018;Tyrone Powell;Indiana;Case;Mandarin (case);1; $82,95 ; $82,95 
+193;20/05/2018;Adara Langley;California;Bottle;Basil (bottle);3; $13,95 ; $41,85 
+194;22/05/2018;Raja Wells;District of Columbia;Bottle;Basil (bottle);4; $13,95 ; $55,80 
+195;29/05/2018;Benjamin Miranda;Florida;Bottle;Mandarin (bottle);1; $13,95 ; $13,95 
+196;02/06/2018;Hunter Newton;Texas;Bottle;Hazelnut (bottle);2; $13,95 ; $27,90 
+197;05/06/2018;Brock Case;Virginia;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+198;05/06/2018;Shellie Velez;Ohio;Bottle;Rosemary (bottle);4; $13,95 ; $55,80 
+199;09/06/2018;Jael Rice;California;Bottle;Hazelnut (bottle);4; $13,95 ; $55,80 
+200;12/06/2018;Blaine Ashley;North Carolina;Bottle;Mandarin (bottle);1; $13,95 ; $13,95 
+201;13/06/2018;Oleg Merritt;California;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+202;16/06/2018;Benjamin Miranda;Florida;Case;Thyme (case);2; $82,95 ; $165,90 
+203;17/06/2018;Leslie Pace;Texas;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+204;17/06/2018;Rae Hawkins;Massachusetts;Case;Mandarin (case);1; $82,95 ; $82,95 
+205;23/06/2018;Lunea Rios;Maryland;Bottle;Rosemary (bottle);1; $13,95 ; $13,95 
+206;23/06/2018;Jaime Craig;Ohio;Case;Assortment (case);2; $82,95 ; $165,90 
+207;25/06/2018;Merrill Freeman;Connecticut;Bottle;Rosemary (bottle);4; $13,95 ; $55,80 
+208;25/06/2018;Rose Holcomb;Georgia;Bottle;Rosemary (bottle);3; $13,95 ; $41,85 
+209;01/07/2018;Tyrone Powell;Indiana;Bottle;Rosemary (bottle);4; $13,95 ; $55,80 
+210;06/07/2018;Jael Rice;California;Bottle;Rosemary (bottle);2; $13,95 ; $27,90 
+211;11/07/2018;Lunea Rios;Maryland;Case;Basil (case);3; $82,95 ; $248,85 
+212;14/07/2018;Mollie Meyers;Texas;Case;Basil (case);1; $82,95 ; $82,95 
+213;15/07/2018;Cailin Alford;North Carolina;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+214;16/07/2018;Nicole Mcconnell;California;Bottle;Rosemary (bottle);1; $13,95 ; $13,95 
+215;17/07/2018;Amery Washington;Illinois;Case;Assortment (case);2; $82,95 ; $165,90 
+216;18/07/2018;Guy Ochoa;Michigan;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+217;23/07/2018;Arden Bennett;Louisiana;Bottle;Rosemary (bottle);3; $13,95 ; $41,85 
+218;26/07/2018;Graham Frederick;Massachusetts;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+219;28/07/2018;Arden Bennett;Louisiana;Bottle;Basil (bottle);3; $13,95 ; $41,85 
+220;29/07/2018;Eric Donaldson;Florida;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+221;30/07/2018;Francesca Hodges;Iowa;Bottle;Thyme (bottle);3; $13,95 ; $41,85 
+222;31/07/2018;Derek Conrad;Colorado;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+223;31/07/2018;Amery Washington;Illinois;Bottle;Mandarin (bottle);2; $13,95 ; $27,90 
+224;01/08/2018;Quail Vance;Iowa;Case;Hazelnut (case);1; $82,95 ; $82,95 
+225;02/08/2018;Wynter Roberts;California;Bottle;Mandarin (bottle);3; $13,95 ; $41,85 
+226;03/08/2018;Malik Faulkner;Florida;Bottle;Mandarin (bottle);3; $13,95 ; $41,85 
+227;05/08/2018;Adara Langley;California;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+228;06/08/2018;Adara Langley;California;Bottle;Hazelnut (bottle);3; $13,95 ; $41,85 
+229;13/08/2018;Melyssa Gates;California;Bottle;Rosemary (bottle);2; $13,95 ; $27,90 
+230;17/08/2018;Clementine Oliver;Kansas;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+231;21/08/2018;Karly Hardin;Ohio;Bottle;Hazelnut (bottle);2; $13,95 ; $27,90 
+232;22/08/2018;Coby Lucas;Tennessee;Case;Hazelnut (case);2; $82,95 ; $165,90 
+233;25/08/2018;Hadley Sosa;Florida;Bottle;Hazelnut (bottle);4; $13,95 ; $55,80 
+234;29/08/2018;Malik Faulkner;Florida;Bottle;Thyme (bottle);1; $13,95 ; $13,95 
+235;30/08/2018;Quail Vance;Iowa;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+236;03/09/2018;Brock Case;Virginia;Bottle;Mandarin (bottle);3; $13,95 ; $41,85 
+237;04/09/2018;Nicole Mcconnell;California;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+238;12/09/2018;Raja Wells;District of Columbia;Bottle;Thyme (bottle);2; $13,95 ; $27,90 
+239;13/09/2018;Eric Donaldson;Florida;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+240;17/09/2018;Debra Finley;Ohio;Case;Basil (case);1; $82,95 ; $82,95 
+241;18/09/2018;Iliana Hester;Illinois;Bottle;Rosemary (bottle);1; $13,95 ; $13,95 
+242;26/09/2018;Indira Odom;Minnesota;Bottle;Mandarin (bottle);3; $13,95 ; $41,85 
+243;28/09/2018;Joshua Delaney;Oklahoma;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+244;02/10/2018;Brooke Perkins;Texas;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+245;03/10/2018;Blaine Ashley;North Carolina;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+246;18/10/2018;Sade Santiago;Alaska;Bottle;Rosemary (bottle);3; $13,95 ; $41,85 
+247;20/10/2018;Mona Matthews;California;Bottle;Mandarin (bottle);3; $13,95 ; $41,85 
+248;21/10/2018;Astra Edwards;New York;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+249;26/10/2018;Sydney Bartlett;Tennessee;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+250;28/10/2018;Arden Bennett;Louisiana;Bottle;Hazelnut (bottle);4; $13,95 ; $55,80 
+251;28/10/2018;Jael Rice;California;Bottle;Lemon (bottle);2; $13,95 ; $27,90 
+252;28/10/2018;Zephr Mcgee;Pennsylvania;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+253;01/11/2018;Jaime Craig;Ohio;Bottle;Basil (bottle);4; $13,95 ; $55,80 
+254;02/11/2018;Barrett Howell;California;Bottle;Mandarin (bottle);2; $13,95 ; $27,90 
+255;03/11/2018;Kyla Hebert;North Carolina;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+256;06/11/2018;Coby Lucas;Tennessee;Case;Lemon (case);1; $82,95 ; $82,95 
+257;08/11/2018;Graham Frederick;Massachusetts;Bottle;Thyme (bottle);3; $13,95 ; $41,85 
+258;11/11/2018;Wynter Roberts;California;Bottle;Rosemary (bottle);2; $13,95 ; $27,90 
+259;15/11/2018;Arden Bennett;Louisiana;Bottle;Mandarin (bottle);4; $13,95 ; $55,80 
+260;18/11/2018;Nolan Slater;Nevada;Bottle;Thyme (bottle);3; $13,95 ; $41,85 
+261;18/11/2018;Amena Petersen;New York;Bottle;Mandarin (bottle);2; $13,95 ; $27,90 
+262;20/11/2018;Zena Washington;California;Bottle;Lemon (bottle);4; $13,95 ; $55,80 
+263;20/11/2018;Chastity Charles;Alabama;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+264;25/11/2018;Chester Best;Minnesota;Case;Assortment (case);2; $82,95 ; $165,90 
+265;26/11/2018;Derek Conrad;Colorado;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+266;27/11/2018;Lunea Rios;Maryland;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+267;27/11/2018;Rose Holcomb;Georgia;Bottle;Lemon (bottle);3; $13,95 ; $41,85 
+268;10/12/2018;Jaime Craig;Ohio;Bottle;Hazelnut (bottle);2; $13,95 ; $27,90 
+269;12/12/2018;Rose Holcomb;Georgia;Bottle;Rosemary (bottle);4; $13,95 ; $55,80 
+270;16/12/2018;Gray Gutierrez;District of Columbia;Case;Rosemary (case);3; $82,95 ; $248,85 
+271;18/12/2018;Raja Wells;District of Columbia;Bottle;Hazelnut (bottle);3; $13,95 ; $41,85 
+272;27/12/2018;Adara Langley;California;Bottle;Lemon (bottle);1; $13,95 ; $13,95 
+273;27/12/2018;Sydney Bartlett;Tennessee;Bottle;Thyme (bottle);1; $13,95 ; $13,95 
+274;29/12/2018;Kyle Keith;Georgia;Case;Lemon (case);2; $82,95 ; $165,90 
