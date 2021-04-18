@@ -88,7 +88,7 @@ scores_df = pd.DataFrame({
     "scores": kbest.scores_
 }).sort_values(by="scores", ascending=False)
 
-cut_column = "long_term_incentive_ratio"
+cut_column = "salary"
 cut_value = scores_df[scores_df["column_names"] == "expenses"]["scores"].values[0]
 
 allowed_columns = scores_df[scores_df["scores"] >= cut_value]
@@ -108,12 +108,12 @@ clfs = [
 cvs = [3, False]
 index_selections = [False, index_to_select]
 
-4 Rounds de iteração:
-    1 Round: Com CV de 3 folds e sem filtrar colunas
-    2 Round: Sem CV e sem filtrar colunas
-    
-    3 Round: Com CV de 3 folds e filtrando colunas
-    2 Round: Sem CV e filtrando colunas
+#4 Rounds de iteração:
+#    1 Round: Com CV de 3 folds e sem filtrar colunas
+#    2 Round: Sem CV e sem filtrar colunas
+#    
+#    3 Round: Com CV de 3 folds e filtrando colunas
+#    2 Round: Sem CV e filtrando colunas
 
 
 dfs = []
@@ -130,6 +130,10 @@ for clf in clfs:
             
             df_i["cross_val"] = cv > 1
             df_i["kbest"] = type(index_selection) == list
+            
+            dfs.append(df_i)
+            
+metrics_df = pd.concat(dfs)
             
             
 
